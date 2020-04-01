@@ -1,5 +1,6 @@
 # adjacency matrix representation of the graph 
-  
+ 
+ 
 import sys # Library for (Infinity)
   
 class Graph(): 
